@@ -145,3 +145,14 @@ footer h3 {
         padding: 1rem 3rem;
     }
 }
+
+div {
+    width: 100%;
+    display: block
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}

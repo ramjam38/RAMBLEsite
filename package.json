@@ -1,0 +1,23 @@
+{
+  "name": "ramblesite",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx light-server",
+    "dev": "npx light-server -p 8080 -w \"*.html,*.js,*.json # #\" -s ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramjam38/RAMBLEsite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramjam38/RAMBLEsite/issues"
+  },
+  "homepage": "https://github.com/ramjam38/RAMBLEsite#readme",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
